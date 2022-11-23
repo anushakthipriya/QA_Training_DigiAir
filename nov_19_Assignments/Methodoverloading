@@ -1,0 +1,7 @@
+Different Ways of Method Overloading in Java
+	Changing the Number of Parameters.
+	Changing Data Types of the Arguments.
+	Changing the Order of the Parameters of Methods
+Can we overload static methods? 
+	The answer is ‘Yes’. We can have two or more static methods with the same name, but differences in input parameters.
+We cannot overload two methods in Java if they differ only by static keyword (number of parameters and types of parameters are the same).

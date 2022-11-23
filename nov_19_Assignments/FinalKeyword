@@ -1,0 +1,3 @@
+In Java, we cannot change the value of a final variable 
+In Java, the final method cannot be overridden by the child class
+In Java, the final class cannot be inherited by another class
